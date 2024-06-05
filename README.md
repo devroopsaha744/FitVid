@@ -1,9 +1,9 @@
 # **FitVid**
 This is AI powered video based gym trainer, that monitors the form of gym exercises. 
 
-To get a thorough understanding of my approach, please read the medium article: https://medium.com/@datafreakai/fitvid-ai-powered-visual-gym-42336427f5c1
+To get a thorough understanding of my approach, please read the medium article: [FitVid](https://medium.com/@datafreakai/fitvid-ai-powered-visual-gym-42336427f5c1)
 
-## **To run this project on your computer, clone this repository:**
+### **To run this project on your computer:**
 ```
 git clone https://github.com/devroopsaha744/FitVid.git
 ```
