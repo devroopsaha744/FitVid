@@ -1,5 +1,4 @@
 
-```markdown
 # **FitVid** 🎥🏋️‍♂️
 
 Welcome to **FitVid**, your AI-powered gym trainer! This innovative application utilizes advanced computer vision techniques to monitor and enhance your exercise form, ensuring you get the most out of your workouts.
